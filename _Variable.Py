@@ -3,7 +3,9 @@
 Variable is a name which is used to refer memory location of value.
 Variable also known as identifier and used to hold the value.
 
-Write Operations and Read Operations
+Local and Global variables.
+Local Variable - The variables which are executed within the function
+Global Variable - The Global Variable can be access whole Program
 
 Rules of variable – Variable means contains which store values.
 1.	A variable name must start with a letter or the underscore character.
